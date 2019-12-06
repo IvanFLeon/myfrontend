@@ -149,7 +149,7 @@ function Index() {
             <style global jsx>{`
                 html {
                     height: 100%;
-                    background-image: url("/static/dark_blue_gradient.png");
+                    background-image: url("img/dark_blue_gradient.png");
                     background-repeat: no-repeat;
                     background-size: cover;
                 }
