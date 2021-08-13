@@ -15,7 +15,7 @@
     "@types/react": "^16.9.13",
     "apollo-boost": "^0.4.4",
     "graphql": "^14.5.8",
-    "next": "^9.1.4",
+    "next": "^11.1.0",
     "next-with-apollo": "^4.3.0",
     "raw-loader": "^4.0.0",
     "react": "^16.12.0",
